@@ -16,6 +16,17 @@
                     </li>
                     <li><a href="fundamental-goals.php">The Fundamental Goals of Islam</a></li>
                     <li><a href="Etiquettes-Morals.php">Islamic Etiquettes & Morals</a></li>
+                    <li><a href="rights-in-islam.php">Rights in Islam</a></li>
+                    <li><a href="javascript:void(0);">What do you know about Islam?</a>
+                        <ul>
+                            <li><a href="kaabah.php">The Ka'bah</a></li>
+                            <li><a href="black-stone.php">The Black Stone</a></li>
+                            <li><a href="black-stone.php#Station_of_Abraham">Station of Abraham</a></li>
+                            <li><a href="messenger-of-islam.php">Messenger of Islam</a></li>
+                            <li><a href="Pillars-of-faith.php">Pillars of Faith</a></li>
+                        </ul>
+                    </li>
+
                     <!--                    <li><a href="fundamental-goals.php">Fundamental Goals</a></li>-->
 
                 </ul>

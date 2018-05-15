@@ -1130,6 +1130,7 @@ footer {
 }
 .header-text h2{
     color: #fff;
+    padding: 0 50px;
     font-size: 50px;
     font-family: 'tt0173m';
 }
@@ -1284,6 +1285,13 @@ footer {
 @media (max-width: 768px) {
     .lg-mt-30{
         margin-top: 30px;
+    }
+    .header-text h2{
+        font-size: 30px;
+    }
+    .header-text{
+        bottom: 50px;
+        top: auto;
     }
     .main-page::before{
         width: 50px;

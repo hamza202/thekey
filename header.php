@@ -34,17 +34,8 @@
                     </li>
                     <li><a href="javascript:void(0)">Islam And...</a>
                         <ul>
-                            <li><a href="kaabah.php">The Ka'bah</a></li>
-                            <li><a href="black-stone.php">The Black Stone</a></li>
-                            <li><a href="black-stone.php#Station_of_Abraham">Station of Abraham</a></li>
-                            <li><a href="Zamzam.php">The Well of Zamzam</a></li>
-                            <li><a href="Safaa-and-Marwaa.php">Safaa and Marwaa</a></li>
-                            <li><a href="Safaa-and-Marwaa.php#Jamaraat">Jamaraat</a></li>
-                            <li><a href="Safaa-and-Marwaa.php#Celebrations">Muslim’s Eid Celebrations</a></li>
-                            <li><a href="Masjid.php">The Prophet’s Masjid</a></li>
-                            <li><a href="Masjid.php#Mount_Hiraa">Mount Hiraa</a></li>
-                            <li><a href="Masjid.php#Masjid_of_the_Dome">Masjid of the Dome of the Rock</a></li>
-                            <li><a href="Masjid-Aqsaa.php">Masjid Aqsaa</a></li>
+                            <li><a href=" Islam-and-Wealth.php">Islam and Wealth</a></li>
+                            <li><a href="Islam-and-Women.php">Islam and Women</a></li>
                         </ul>
                     </li>
 

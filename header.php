@@ -5,7 +5,7 @@
             <div class="menu-contant">
                 <ul>
                     <li><a href="intro.php">Introduction</a></li>
-                    <li><a href="javascript:void(0);">Learn About Islam</a>
+                    <li><a href="javascript:void(0)">Learn About Islam</a>
                         <ul>
                             <li><a href="What-is-Islam.php">What is Islam?</a></li>
                             <li><a href="What-is-Islam.php#What_do_they_say_about_Islam">What do they say about Islam?</a></li>
@@ -17,13 +17,34 @@
                     <li><a href="fundamental-goals.php">The Fundamental Goals of Islam</a></li>
                     <li><a href="Etiquettes-Morals.php">Islamic Etiquettes & Morals</a></li>
                     <li><a href="rights-in-islam.php">Rights in Islam</a></li>
-                    <li><a href="javascript:void(0);">What do you know about Islam?</a>
+                    <li><a href="javascript:void(0)">What do you know about Islam?</a>
                         <ul>
                             <li><a href="kaabah.php">The Ka'bah</a></li>
                             <li><a href="black-stone.php">The Black Stone</a></li>
                             <li><a href="black-stone.php#Station_of_Abraham">Station of Abraham</a></li>
                             <li><a href="Zamzam.php">The Well of Zamzam</a></li>
                             <li><a href="Safaa-and-Marwaa.php">Safaa and Marwaa</a></li>
+                            <li><a href="Safaa-and-Marwaa.php#Jamaraat">Jamaraat</a></li>
+                            <li><a href="Safaa-and-Marwaa.php#Celebrations">Muslim’s Eid Celebrations</a></li>
+                            <li><a href="Masjid.php">The Prophet’s Masjid</a></li>
+                            <li><a href="Masjid.php#Mount_Hiraa">Mount Hiraa</a></li>
+                            <li><a href="Masjid.php#Masjid_of_the_Dome">Masjid of the Dome of the Rock</a></li>
+                            <li><a href="Masjid-Aqsaa.php">Masjid Aqsaa</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="javascript:void(0)">Islam And...</a>
+                        <ul>
+                            <li><a href="kaabah.php">The Ka'bah</a></li>
+                            <li><a href="black-stone.php">The Black Stone</a></li>
+                            <li><a href="black-stone.php#Station_of_Abraham">Station of Abraham</a></li>
+                            <li><a href="Zamzam.php">The Well of Zamzam</a></li>
+                            <li><a href="Safaa-and-Marwaa.php">Safaa and Marwaa</a></li>
+                            <li><a href="Safaa-and-Marwaa.php#Jamaraat">Jamaraat</a></li>
+                            <li><a href="Safaa-and-Marwaa.php#Celebrations">Muslim’s Eid Celebrations</a></li>
+                            <li><a href="Masjid.php">The Prophet’s Masjid</a></li>
+                            <li><a href="Masjid.php#Mount_Hiraa">Mount Hiraa</a></li>
+                            <li><a href="Masjid.php#Masjid_of_the_Dome">Masjid of the Dome of the Rock</a></li>
+                            <li><a href="Masjid-Aqsaa.php">Masjid Aqsaa</a></li>
                         </ul>
                     </li>
 

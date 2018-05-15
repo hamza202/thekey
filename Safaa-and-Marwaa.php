@@ -45,7 +45,7 @@ include('header.php');
                     <h2 class="h2-title dark-blue-color mb-3 bg-f0" data-aos="fade-up">Safaa and Marwaa</h2>
                 </div>
             </div>
-            <div class="row text-justify">
+            <div class="row text-justify" data-aos="fade-up">
                 <div class="col-lg-5 order-lg-1  text-center">
                     <img data-aos="flip-right" class="img-fluid" src="img/islam2.jpg" alt="">
                 </div>

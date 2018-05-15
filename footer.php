@@ -110,7 +110,7 @@
     $(".left-lang::before").on("click", function () {
         $(".two-top").toggleClass("Hoverdlang")
     });
-    $(".menu-contant a").on("click", function () {
+    $(".menu-contant a:not( a[href$='javascript:void(0)'])").on("click", function () {
         $(".right-menu .dropdown").toggleClass("Hoverd")
     });
 </script>

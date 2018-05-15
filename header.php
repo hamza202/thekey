@@ -22,8 +22,8 @@
                             <li><a href="kaabah.php">The Ka'bah</a></li>
                             <li><a href="black-stone.php">The Black Stone</a></li>
                             <li><a href="black-stone.php#Station_of_Abraham">Station of Abraham</a></li>
-                            <li><a href="messenger-of-islam.php">Messenger of Islam</a></li>
-                            <li><a href="Pillars-of-faith.php">Pillars of Faith</a></li>
+                            <li><a href="Zamzam.php">The Well of Zamzam</a></li>
+                            <li><a href="Safaa-and-Marwaa.php">Safaa and Marwaa</a></li>
                         </ul>
                     </li>
 

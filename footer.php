@@ -27,33 +27,10 @@
 
 </script>
 <!--<script type="text/javascript" src="dist/skrollr.min.js"></script>-->
-<script src="js/jquery.nicescroll.min.js"></script>
 <script src="http://cdnjs.cloudflare.com/ajax/libs/gsap/1.17.0/TweenMax.min.js"></script>
 
 
 <script type="text/javascript">
-
-
-    $("body").niceScroll({
-        cursorcolor: "#09101d", // change cursor color in hex
-        cursoropacitymin: 0, // change opacity when cursor is inactive (scrollabar "hidden" state), range from 1 to 0
-        cursoropacitymax: 1, // change opacity when cursor is active (scrollabar "visible" state), range from 1 to 0
-        cursorwidth: "7px", // cursor width in pixel (you can also write "5px")
-        cursorborder: "1px solid #fff", // css definition for cursor border
-        cursorborderradius: "5px", // border radius in pixel for cursor
-        zindex: "999",
-        scrollspeed: 20, // scrolling speed
-        mousescrollstep: 20, // scrolling speed with mouse wheel (pixel)
-        touchbehavior: false, // DEPRECATED!! use "touchemulate"
-        emulatetouch: false, // enable cursor-drag scrolling like touch devices in desktop computer
-        hwacceleration: true, // use hardware accelerated scroll when supported
-        boxzoom: false, // enable zoom for box content
-        dblclickzoom: true, // (only when boxzoom=true) zoom activated when double click on box
-        gesturezoom: true, // (only when boxzoom=true and with touch devices) zoom activated when pinch out/in on box
-        grabcursorenabled: true,// (only when touchbehavior=true) display "grab" icon
-        autohidemode: true// how hide the scrollbar works, possible values:
-
-    });
     $(document).ready(function () {
         "use strict";
 
@@ -95,6 +72,9 @@
     })
 </script>
 <script>
+    $(".dropdown-content .close").on("click", function () {
+        $(".right-menu .dropdown").toggleClass("Hoverd")
+    });
     $(".right-menu .dropbtn").on("click", function () {
         $(".right-menu .dropdown").toggleClass("Hoverd")
     });
@@ -106,7 +86,6 @@
         $('.lang-list').css({'height': 0+'%'})
         $('.Hoverdlang .lang-list').css({'height': div_num*100+'%'})
     });
-
     $(".left-lang::before").on("click", function () {
         $(".two-top").toggleClass("Hoverdlang")
     });

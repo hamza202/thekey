@@ -55,7 +55,7 @@ body {
     line-height: 1;
     font-family: arial;
     background: #f0f0f0;
-    overflow: hidden;
+    overflow-x: hidden;
 }
 
 html, body {
@@ -132,13 +132,13 @@ html, body {
     position: absolute;
     right: 70px;
     top: 49px;
-    width: 0;
+    width: calc(77vw - 6px);
     box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
     z-index: 3;
     margin-top: 15px;
-    height: 60vh;
+    height: 0;
     overflow-y: scroll;
-
+    transition: all 0.5s ease;
     background: #32a5aa;
 }
 
@@ -259,8 +259,9 @@ li.haschaid ul li a:hover {
     display: block;
     margin-top: 15px;
     width: calc(77vw - 6px);
-    transition: 0.2s all;
+    transition: 0.5s all ease;
     opacity: 0.9;
+    height: 60vh;
 }
 
 /*menu*/
@@ -309,7 +310,7 @@ a:hover {
 }
 
 .header-key {
-    height: 100vh;
+    height: 90vh;
     overflow: hidden;
     transition: all 0.2s
 }
@@ -408,7 +409,7 @@ header span{
 .two-top {
     position: fixed;
     top: 80px;
-    z-index: 20;
+    z-index: 999;
 
 }
 
@@ -553,7 +554,7 @@ header span{
     font-weight: bold;
 }
 .contetn-center {
-    padding-top: 146px;
+    padding-top: 81px;
     color: #1a2d4e;
 
 }
@@ -1202,10 +1203,10 @@ footer {
 }
 .second-title span{
     position: absolute;
-    left: 0px;
+    left: 0;
     font-size: 23px;
     color: #1a2f4e;
-    bottom: 0;
+    top:-7px;
 }
 .q1{
     position: relative;
@@ -1266,6 +1267,27 @@ footer {
     /*z-index: 0;*/
 /*}*/
 /*pages-header end*/
+.dropdown-content .close{
+    position: fixed;
+    top: 3px;
+    color: #fff;
+    opacity: 1;
+    right: 12px;
+    z-index: 999;
+    font-size: 40px;
+}
+.dropdown .close{
+    display: none;
+}
+.dropdown.Hoverd .close{
+    display: block;
+}
+.list-style-2 li i{
+    color: #1a2f4e;
+}
+.list-style-2 li{
+    margin-top: 30px;
+}
 @media (max-width: 1200px) {
 
 }
@@ -1360,9 +1382,13 @@ footer {
     .main-page::before{
         display: none;
     }
+    .contetn-center{
+        padding-top: 250px;
+    }
     .header-text h2{
         font-size: 25px;
     }
+
     .header-text{
         top: auto;
         bottom: 50px;
@@ -1390,8 +1416,14 @@ footer {
         display: none;
     }
     .right-menu .Hoverd .dropdown-content{
-        width: calc(57vw - 6px);
+        width: 100vw;
+        position: fixed;
+        top: 0;
+        right: 0;
+        margin-top: 24px;
+        height: calc(100vh - 24px);
     }
+
     .content-header-top-z .padding-50px-x{
         padding: 0 50px !important;
     }
@@ -1454,6 +1486,9 @@ footer {
         padding-right: 15px;
     }
     .img-parlex-right-end{
+        display: none;
+    }
+    .box-header-left{
         display: none;
     }
 }

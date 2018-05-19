@@ -1,0 +1,7 @@
+Home page responsive need some fixes2. 
+remove nice scroll, keep the regular scroll3. 
+Home page main banner was 70 - 80% of the page now it 100%, keep it back4. 
+home page in the main banner block what is islam is duplicated, change the content for one of them5. 
+onScroll the langs button jump to another side with no effect6.
+ Navigation in responsive is broken7. 
+Navigation open effect, i think if we open it from the top of the page and slide down will be much better

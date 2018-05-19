@@ -2,6 +2,7 @@
     <div class="dropdown">
         <div class="dropbtn"><i class="fas fa-bars"></i></div>
         <div class="dropdown-content">
+            <span class="close d-md-none d-sm-block "><i class="fas fa-times"></i></span>
             <div class="menu-contant">
                 <ul>
                     <li><a href="intro.php">Introduction</a></li>
@@ -34,13 +35,15 @@
                     </li>
                     <li><a href="javascript:void(0)">Islam And...</a>
                         <ul>
-                            <li><a href=" Islam-and-Wealth.php">Islam and Wealth</a></li>
+                            <li><a href="Islam-and-Wealth.php">Islam and Wealth</a></li>
                             <li><a href="Islam-and-Women.php">Islam and Women</a></li>
+                            <li><a href="Islam-and-Non-Muslims.php">Islam and Non-Muslims</a></li>
+                            <li><a href="Islam-and-Other-Divine.php">Islam and Other Divine Religions</a></li>
+                            <li><a href="Islam-and-Jihad.php">Islam and Jihad</a></li>
+                            <li><a href="Islam-and-Society.php">Islam and Society</a></li>
                         </ul>
                     </li>
-
                     <!--                    <li><a href="fundamental-goals.php">Fundamental Goals</a></li>-->
-
                 </ul>
             </div>
         </div>

@@ -41,9 +41,19 @@
                             <li><a href="Islam-and-Other-Divine.php">Islam and Other Divine Religions</a></li>
                             <li><a href="Islam-and-Jihad.php">Islam and Jihad</a></li>
                             <li><a href="Islam-and-Society.php">Islam and Society</a></li>
+                            <li><a href="Islam-and-Cleanliness.php">Islam and Cleanliness</a></li>
+                            <li><a href="Islam-and-Knowledge.php">Islam and Knowledge</a></li>
                         </ul>
                     </li>
-                    <!--                    <li><a href="fundamental-goals.php">Fundamental Goals</a></li>-->
+                    <li><a href="Islamic-Perspective.php">Islamic Perspective on Sexual Relations</a></li>
+                    <li><a href="Muslims-love-Jesus.php">Muslims love Jesus</a></li>
+                    <li><a href="Faith-of-Peace.php">Islam is the Faith of Peace</a></li>
+                    <li><a href="javascript:void(0)">Islamic Civilization</a>
+                        <ul>
+                            <li><a href="Islamic-Civilization.php">The Effect of Islamic Civilization</a></li>
+                            <li><a href="Islam-and-Women.php">Islam and Women</a></li>
+                        </ul>
+                    </li>
                 </ul>
             </div>
         </div>

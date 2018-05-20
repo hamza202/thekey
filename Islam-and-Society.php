@@ -60,8 +60,8 @@ include('header.php');
                 </div>
                 <div class="col-lg-7 order-lg-0 lg-mt-30 pt-0 pt-md-2" data-aos="fade-up">
                     <ul class="number-list list-unstyled">
-                        <li>
-                            <p class="bg-f0" data-aos="fade-up">
+                        <li class="bg-f0" data-aos="fade-up">
+                            <p >
                                 It encourages planting beneficial plants and trees. The Messenger
                                 of Allah, Muhammad <img class="moh" src="img/icon/7.png" alt=""> said:
                                 <span class="hadeth">
@@ -71,8 +71,8 @@ include('header.php');
                                 </span>
                             </p>
                         </li>
-                        <li>
-                            <p class="bg-f0" data-aos="fade-up">
+                        <li class="bg-f0" data-aos="fade-up">
+                            <p >
                                 It encourages the removal of anything that may inflict harm.
                                 The Messenger of Islam <img class="moh" src="img/icon/7.png" alt=""> said:
                                 <span class="hadeth">
@@ -81,8 +81,8 @@ include('header.php');
                                 </span>
                             </p>
                         </li>
-                        <li>
-                            <p class="bg-f0" data-aos="fade-up">
+                        <li  class="bg-f0" data-aos="fade-up">
+                            <p>
                                 It encourages quarantining those afflicted with diseases
                                 and epidemics in order to prevent its spread to other
                                 societies and protecting the lives of others. The Messenger
@@ -94,8 +94,8 @@ include('header.php');
                                 </span>
                             </p>
                         </li>
-                        <li>
-                            <p class="bg-f0" data-aos="fade-up">
+                        <li class="bg-f0" data-aos="fade-up">
+                            <p >
                                 It forbids the random killing of animals and birds. The
                                 Messenger of Allah, Muhammad <img src="img/icon/7.png" class="moh" alt=""> said:
                                 <span class="hadeth">
@@ -105,8 +105,8 @@ include('header.php');
                                 </span>
                             </p>
                         </li>
-                        <li>
-                            <p class="bg-f0" data-aos="fade-up">
+                        <li class="bg-f0" data-aos="fade-up">
+                            <p >
                                 It forbids polluting the society in any way. The Messenger
                                 of Allah, Muhammad <img class="moh" src="img/icon/7.png" alt=""> said:
                                 <span class="hadeth">

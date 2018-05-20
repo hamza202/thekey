@@ -1146,7 +1146,7 @@ footer {
     color: #fff;
 }
 .blue-color{
-    color: #32a5aa;
+    color: #32a5aa !important;
 }
 /*.main-page::before{*/
     /*content: '';*/
@@ -1285,7 +1285,10 @@ footer {
 .list-style-2 li i{
     color: #1a2f4e;
 }
-
+.quote{
+    color:#1a2f4e ;
+    font-style: italic;
+}
 .list-style-2 li{
     margin-top: 30px;
 }
@@ -1499,5 +1502,9 @@ footer {
     }
     .padding-right-0px{
         padding-left: 0;
+    }
+    .header-text h2{
+        width: 90%;
+        margin: 0 auto;
     }
 }

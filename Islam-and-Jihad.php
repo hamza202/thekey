@@ -79,8 +79,8 @@ include('header.php');
                 </div>
                 <div class="col-lg-7 order-lg-0 lg-mt-30 pt-0 pt-md-2" data-aos="fade-up">
                     <ul class="list-unstyled list-style-2">
-                        <li class="bg-f0" data-aos="fade-up">
-                            <p><i class="fas fa-hand-point-right"></i> Informing non-Muslims of the content of Islam.
+                        <li class="bg-f0 " data-aos="fade-up">
+                            <p><i class="fas fa-hand-point-right "></i> Informing non-Muslims of the content of Islam.
                                 Making it clear to them by
                                 citing evidences from the Holy Qur'an or supporting explanations along
                                 with proofs while reasoning when necessary and listening with patience
@@ -124,7 +124,7 @@ include('header.php');
                 </div>
                 <div class="col-lg-7 order-lg-0 lg-mt-30 pt-0 pt-md-2" data-aos="fade-up">
                     <ul class="list-unstyled list-style-2">
-                        <li class="bg-f0" data-aos="fade-up">
+                        <li class="bg-f0 mt-0" data-aos="fade-up">
                             <p><i class="fas fa-hand-point-right"></i>
                                 Speaking out against an unjust ruler. The Prophet Muhammad <img class="moh"
                                                                                                 src="img/icon/7.png"
@@ -190,7 +190,7 @@ include('header.php');
                 </div>
                 <div class="col-lg-7 order-lg-0 lg-mt-30 pt-0 pt-md-2" data-aos="fade-up">
                     <ul class="list-unstyled list-style-2">
-                        <li class="bg-f0" data-aos="fade-up">
+                        <li class="bg-f0 mt-0" data-aos="fade-up">
                             <p><i class="fas fa-hand-point-right"></i> Performing acts of worship.
                                 <br>
                                 The <img src="img/icon/7.png" class="moh" alt=""> was asked,

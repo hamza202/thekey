@@ -51,7 +51,15 @@
                     <li><a href="javascript:void(0)">Islamic Civilization</a>
                         <ul>
                             <li><a href="Islamic-Civilization.php">The Effect of Islamic Civilization</a></li>
-                            <li><a href="Islam-and-Women.php">Islam and Women</a></li>
+                            <li><a href="Virtues-of-Islamic.php">The Virtues of Islamic Civilization</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="javascript:void(0)">Science & Quran</a>
+                        <ul>
+                            <li><a href="Verses-Quraan.php">Few Verses of the Qur’an</a></li>
+                            <li><a href="Begining-World.php">Begining of the World</a></li>
+                            <li><a href="Expansion-of-Universe.php">Expansion of the Universe</a></li>
+                            <li><a href="Celestial-Bodies.php">Celestial Bodies</a></li>
                         </ul>
                     </li>
                 </ul>

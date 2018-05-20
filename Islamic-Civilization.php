@@ -12,7 +12,8 @@
     <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-    <title>Rights in Islam</title>
+    <title>The Effect of Islamic
+        Civilization on Modern Science</title>
     <?php
     include('style.php');
     ?>
@@ -34,7 +35,8 @@ include('header.php');
 ?>
 <header class="pages-header">
     <div class="header-text">
-        <h2>Rights in Islam</h2>
+        <h2>The Effect of Islamic
+            Civilization on Modern Science</h2>
     </div>
 </header>
 <div class="main-page position-relative pt-5 pb-5">
@@ -42,8 +44,9 @@ include('header.php');
         <div class="z-index-105 pr-md-5 pl-md-5">
             <div class="row">
                 <div class="col-sm-12">
-                    <h2 class="h2-title dark-blue-color mb-3" data-aos="fade-up" style="background: #f0f0f0;">Rights in
-                        Islam</h2>
+                    <h2 class="h2-title dark-blue-color mb-3" data-aos="fade-up" style="background: #f0f0f0;">The Effect
+                        of Islamic
+                        Civilization on Modern Science</h2>
                 </div>
             </div>
             <div class="row text-justify">
@@ -52,107 +55,300 @@ include('header.php');
                 </div>
                 <div class="col-lg-7 order-lg-0 lg-mt-30 " data-aos="fade-up">
 
-                    <p class="bg-f0" data-aos="fade-up">Islam has prescribed that its followers give people their due
-                        rights. Parents,
-                        spouses, children, neighbors; all are given specific rights according to their
-                        specific roles in this world. Accordingly, mutual bonds and solidity can be established
-                        and strengthened between the individuals of a Muslim society. This
-                        spreads love and unity and prevents the society from fragmenting.</p>
+                    <p class="bg-f0" data-aos="fade-up">The one who contemplates the reason modern science and
+                        technology have
+                        taken giant steps and advanced to their present state would certainly agree
+                        that it is in part due to the Islamic civilization which transmitted and introduced
+                        vast amounts of knowledge and produced many scientific scholars. </p>
                     <br>
                     <p class="bg-f0" data-aos="fade-up">
-                        <em class="blue-color bold "> Allah says:</em>
-                        <em class="quran bg-f0">
-                            <img class="q1" src="img/q1.png">“Worship Allah and associate nothing with
-                            Him, and to parents do good, and to relatives,
-                            orphans, the needy, the near neighbor,
-                            the neighbor farther away, the companion
-                            at your side, the traveler, and
-                            those whom your right hands possess.
-                            Indeed, Allah likes not each arrogant
-                            boaster.”<img class="q2" src="img/q2.png">
-                            <small>(4:36)</small>
-                        </em>
+                        <em class="bold">C.H. Haskins </em> <em class="tooltip-top" data-html="true"
+                                                                data-toggle="tooltip" data-placement="top" title=""
+                                                                data-original-title="<b class='bold'> C.H. Haskins </b>
+                                <br>
+                                <img class='pic-man' src='img/pic/1.png'>
+                                Charles
+                            Homer, 1870–1937,
+                            American historian, an
+                            authority on medieval history
+                            ">(1)</em> said: <i class="quote fas fa-quote-left"></i> <em class="font-italic">
+                            The broad fact remains that the
+                            Arabs of Spain were the principal source of the new
+                            learning for Western Europe.
+                        </em> <i class="quote fas fa-quote-right"></i>
                     </p>
 
                     <br>
-                    <p class="bg-f0 " data-aos="fade-up">
-                        The Prophet <img src="img/icon/7.png" class="moh" alt=""> said:<span class="hadeth">
-                            “Each of you is a guardian, and responsible
-for what is in his custody. The ruler is
-a guardian of his subjects and responsible for them. A husband is a guardian of
-his family and is responsible for them. A woman is a guardian of her husband’s
-house and is responsible for it, and a servant is a guardian of his master’s property
-and is responsible for it.”
-                        <small>(Bukhari)</small>
-                        </span>
+                    <p class="bg-f0" data-aos="fade-up">
+                        They are the ones who placed the fundamentals
+                        from which modern civilization advanced. Whoever
+                        reviews the Dictionary of Technical Terms for Aerospace<em class="tooltip-top" data-html="true"
+                                                                                   data-toggle="tooltip"
+                                                                                   data-placement="top" title=""
+                                                                                   data-original-title="<b class='bold'>  William H. Allen </b>
+                                <br>
+                                  Dictionary
+                            of Technical Terms of
+                            Aerospace, First Edition
+                            ">(2)</em>
+                        would certainly conclude that sixty percent
+                        of the known stars are given names that are derived
+                        from Arabic.
                     </p>
                     <br>
-                    <p class="bg-f0 " data-aos="fade-up">
-                        Also, the paths which people traverse have their rights that must be fulfilled.
-                        The Messenger of Allah, Muhammad <img class="moh" src="img/icon/7.png" alt=""> said:
-                        <span class="hadeth">
-                            “Be careful and stay away from sitting on the walking paths.” They said, “O
-                        Messenger of Allah, we have no other place to gather and talk.” So he replied,
-                        “If you must do so, then give the paths their rights.” They said, “And what are
-                        the rights of the paths?” He replied, “Lowering one’s gaze (not looking at members
-                        of the opposite gender), not bringing harm to others, replying to salutations,
-                        and enjoining good and forbidding evil.” <small>(Bukhari)</small>
-                        </span>
-
+                    <p class="bg-f0" data-aos="fade-up">
+                        The books and works of early Muslim scholars were
+                        the main resource texts which the West benefited
+                        from, especially the Europeans who used these
+                        works during the Renaissance period. Many of these
+                        texts were used in European universities.
                     </p>
-
+                    <br>
+                    <p class="bg-f0" data-aos="fade-up">
+                        <em class="bold">Marquis of Dufferin and Ava</em> <em class="tooltip-top" data-html="true"
+                                                                              data-toggle="tooltip" data-placement="top"
+                                                                              title="" data-original-title="<b class='bold'> Dufferin </b>
+                                <br>
+                                <img class='pic-man' src='img/pic/2.png'>
+                                Speeches
+                                Delivered in India, London
+                                1890, p. 24.
+                            ">(3)</em> said: <i class="quote fas fa-quote-left"></i> <em class="font-italic">
+                            It is to Mussulman
+                            science, to Mussulman art, and to Mussulman
+                            literature that Europe has been in a great
+                            measure indebted for its extrication from the darkness
+                            of the Middle Ages.
+                        </em> <i class="quote fas fa-quote-right"></i>
+                    </p>
                 </div>
             </div>
-            <div class="row text-justify mt-3" data-aos="fade-up">
+            <div class="row text-justify mt-5" data-aos="fade-up">
                 <div class="col-lg-5 text-center">
                     <img data-aos="flip-right" class="img-fluid" src="img/islam2.jpg" alt="">
                 </div>
                 <div class="col-lg-7  lg-mt-30 " data-aos="fade-up">
                     <p class="bg-f0" data-aos="fade-up">
-                        Even animals have rights. Showing them compassion and
-                        treating them well is a means to attain forgiveness of one’s
-                        sins. The Messenger of Allah, Muhammad <img src="img/icon/7.png" class="moh" alt=""> said:
-                        <br>
-                        <span class="hadeth">
-                            “Once a man was tending to some business, and became
-                                very thirsty. He came across a well, so he descended into it
-                                and drank from it. [When he came out], he saw a dog panting
-                                and licking the dirt (in search of water) due to thirst.
-                                The man said, ‘This
-                                dog is as thirsty
-                                as I was.’ So he
-                                descended [once
-                                again] into the well,
-                                filled his boot with
-                                water and gave a
-                                drink to the dog.
-                                [Due to that] Allah
-                                rewarded him by
-                                forgiving his sins.”
-                            They said, “O Messenger
-                            of Allah, will
-                            we be rewarded
-                            even for our kindness
-                            to animals?” He replied, “Yes indeed. Every kindness
-                            to a living being will be rewarded.”
-                            <small>(Bukhari)</small>
-                        </span>
+                        <em class="bold">J.H. Denison said </em> <em class="tooltip-top" data-html="true"
+                                                                     data-toggle="tooltip" data-placement="top" title=""
+                                                                     data-original-title="<b class='bold'> J.H. Denison </b>
+                                <br>
+                                <img class='pic-man' src='img/pic/3.png'>
+                                American
+                                Psychologist and author
+                                of Emotion as the Basis of
+                                Civilization, London, 1928,
+                                pp. 265, 269.
+                            ">(4)</em> said: <i class="quote fas fa-quote-left"></i> <em class="font-italic">
+                            In the fifth and sixth centuries the civilized world stood on the verge
+                            of chaos. The old emotional cultures that had made civilization possible,
+                            since they had given to men a sense of unity and of reverence
+                            for their rulers, had broken down and nothing had been found adequate
+                            to take their place. It seemed then the great civilization which
+                            it had taken four thousand years to construct was on the verge of
+                            disintegration, and that mankind was likely to return to that condition
+                            of barbarism where every tribe and sect was against the next,
+                            and law and order was unknown. The old tribal sanctions had lost
+                            their power. The new sanctions created by Christianity were working
+                            division and destruction instead of unity and order. It was a time
+                            fraught with tragedy. Civilization, like a gigantic tree whose foliage
+                            had overarched the world and whose branches had borne the golden
+                            fruits of art and science and literature, stood tottering and rotted
+                            to the core. Was there any emotional culture that could be brought
+                            in to gather mankind once more into unity and to save civilization? It
+                            was among these people that the man, Muhammad, was born who
+                            was to unite the whole known world of the east and south.
+                        </em> <i class="quote fas fa-quote-right"></i>
                     </p>
+                </div>
+            </div>
+            <div class="row text-justify mt-5" data-aos="fade-up">
+                <div class="col-lg-5 order-lg-1  text-center">
+                    <img data-aos="flip-right" class="img-fluid" src="img/islam2.jpg" alt="">
+                </div>
+                <div class="col-lg-7 order-lg-0 lg-mt-30 " data-aos="fade-up">
+                    <p class="bg-f0" data-aos="fade-up">Muslims had advanced in all technical, scientific and
+                        intellectual fields. Here we
+                        will mention a few of the outstanding scholars in various fields.</p>
                     <br>
-                    <p class="bg-f0" data-aos="fade-up">
-                        Islam has made mistreating animals, such as confining them
-                        without food or drink, or torturing them, reasons for entering
-                        the Hellfire. The Messenger of Allah, Muhammad <img src="img/icon/7.png" class="moh" alt=""> said:
+                    <ul class="list-unstyled list-style-2">
+                        <li class="bg-f0 mt-0" data-aos="fade-up">
+                            <p><i class="fas fa-hand-point-right"></i>
+                                <em class="bold">Al-Khawarizmi</em> (780-850CE) was a great scholar in the fields of
+                                mathematics,
+                                algebra, logarithms and geometry. He was perhaps one of the greatest
+                                mathematicians who ever lived. In fact, he was the founder of several branches
+                                and basic concepts of mathematics. He was also the founder of Algebra.
+                            </p>
+                        </li>
+                        <li class="bg-f0 mt-0" data-aos="fade-up">
+                            <p><i class="fas fa-hand-point-right"></i>
+                                <em class="bold">Al-Biruni</em>(973–1050AD) was a great scholar in many fields. He wrote
+                                on
+                                topics ranging from astronomy to mathematics, mathematical geography to
+                                mechanics, pharmacology and history. Al-Biruni discussed the theory of the
+                                earth rotating on its own axis six hundred years before Galileo!
+                                <br><br>
+                                The German Orientalist <b class="bold">E. Sachau</b> said about Al-Biruni:
+                                <br>
+                                “He was the greatest intellectual known to man.” <em class="tooltip-top"
+                                                                                     data-html="true"
+                                                                                     data-toggle="tooltip"
+                                                                                     data-placement="top" title=""
+                                                                                     data-original-title="<b class='bold'> Sachau, E. (1879). </b>
+                                <br>
+                               The Chronology of Ancient
+                                Nations; an English Version
+                                of the Arabic text of the
+                                Athâr-ul-Bâkiya of Albîrûnî,
+                                or “Vestiges of the Past”,
+                                London: Pub. for the
+                                Oriental translation fund of
+                                Great Britain & Ireland by
+                                W.H. Allen.
+                            ">(5)</em>
+                                <br>
+                                As Muslims we say that the greatest intellectual known to man is our Prophet
+                                Muhammad <img src="img/icon/7.png" class="moh"> .
+                            </p>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="row text-justify mt-5" data-aos="fade-up">
+                <div class="col-12 " data-aos="fade-up">
+                    <p class="bg-f0" data-aos="fade-up">In the field of medicine and pharmacy, Muslim scholars left
+                        behind a wealth of
+                        knowledge in their works, which were used to advance modern day medicine.
+                        Among these scholars were:</p>
+                    <br>
+                    <ul class="list-unstyled list-style-2">
+                        <li class="bg-f0 mt-0" data-aos="fade-up">
+
+                            <p><i class="fas fa-hand-point-right"></i>
+                                <em class="bold">Ibn Rushd</em> <em class="tooltip-top" data-html="true"
+                                                                    data-toggle="tooltip" data-placement="top" title=""
+                                                                    data-original-title="
+                                <br>
+                                <img class='pic-man' src='img/pic/4.png'>
+                                <br>
+                              <b class='bold'> • Ibn Rushd </b>
+                            "> <i class="fas fa-circle blue-color"></i> </em> (780-850CE) was a great scholar in the
+                                fields of mathematics,
+                                algebra, logarithms and geometry. He was perhaps one of the greatest
+                                mathematicians who ever lived. In fact, he was the founder of several branches
+                                and basic concepts of mathematics. He was also the founder of Algebra.
+                            </p>
+                        </li>
+                        <li class="bg-f0 " data-aos="fade-up">
+                            <p><i class="fas fa-hand-point-right"></i>
+                                <em class="bold">Ibn An-Nafees</em> <em class="tooltip-top" data-html="true"
+                                                                        data-toggle="tooltip" data-placement="top"
+                                                                        title="" data-original-title="
+                                <br>
+                                <img class='pic-man' src='img/pic/5.png'>
+                                <br>
+                              <b class='bold'> • Ibn Rushd </b>
+                            "> <i class="fas fa-circle blue-color"></i> </em> (1213-1288 CE) was a physician who was
+                                mostly famous for being the first to describe the pulmonary
+                                circulation of the blood. He discovered blood circulation before
+                                the Englishman Harvey and the Spaniard Michael Servetus
+                                by hundreds of years.
+                            </p>
+                        </li>
+                        <li class="bg-f0" data-aos="fade-up">
+                            <p><i class="fas fa-hand-point-right"></i>
+                                <em class="bold">Al-Hasan ibn Al-Haitham</em>
+                                (Alhazen 965-1040 AH) was a great mathematician. He was a pioneer in optics,
+                                engineering and astronomy. According
+                                to Giambattista della Porta, Al-Hasan was the
+                                first to explain the apparent increase in the size
+                                of the moon and sun when near the horizon.
+                                His seven volume treatise on optics Kitab AlManadhir
+                                (Book of Optics) is possibly the earliest
+                                work to use the scientific method. He used
+                                the results of experiments to test theories
+                            </p>
+                        </li>
+                        <li class="bg-f0" data-aos="fade-up">
+                            <p><i class="fas fa-hand-point-right"></i>
+                                <em class="bold">Al-Mansoori</em> and <em class="bold">Abu Bakr Ar-Razi</em>
+                                <em class="tooltip-top" data-html="true" data-toggle="tooltip" data-placement="top"
+                                    title="" data-original-title="
+                                <br>
+                                <img class='pic-man' src='img/pic/01.png'>
+                                <br>
+                                 <b class='bold'> • Abu Bakr Ar-Razi </b>
+                                 "> <i class="fas fa-circle blue-color"></i> </em>
+                                were
+                                renowned, versatile physicians. They made
+                                fundamental and enduring contributions to
+                                the fields of medicine and philosophy
+                            </p>
+                        </li>
+                        <li class="bg-f0" data-aos="fade-up">
+                            <p><i class="fas fa-hand-point-right"></i>
+                                <em class="bold">Muwaffaq Al-Baghdadi</em> and <em class="bold">Abul-Qasim
+                                    Az-Zahrawi</em>
+                                <em class="tooltip-top" data-html="true" data-toggle="tooltip" data-placement="top"
+                                    title="" data-original-title="
+                                <br>
+                                <img class='pic-man' src='img/pic/02.png'>
+                                <br>
+                                 <b class='bold'> • Az-Zahrawi  </b>
+                                 "> <i class="fas fa-circle blue-color"></i> </em>
+                                were renowned in dental practices.
+                                They wrote books concerning this, and
+                                put illustrative pictures of the tools used in
+                                surgical operations and how to use the tools.
+                            </p>
+                        </li>
+                        <li class="bg-f0" data-aos="fade-up">
+                            <p><i class="fas fa-hand-point-right"></i>
+                                In the field of geography and geology many
+                                notable scholars can be mentioned, among
+                                whom is:
+                                <br><br>
+                                <em class="bold">Shareef Al-Idrisi</em>
+                                <em class="tooltip-top" data-html="true" data-toggle="tooltip" data-placement="top"
+                                    title="" data-original-title="
+                                <br>
+                                <img class='pic-man' src='img/pic/03.png'>
+                                <br>
+                                 <b class='bold'> • Shareef Al-Idrisi  </b>
+                                 "> <i class="fas fa-circle blue-color"></i> </em>
+                                (1100-1165 AH) was a
+                                cartographer, geographer and traveler. He was
+                                renowned for his excellent maps of the world.
+                                He also invented navigational instruments.
+                                <br><br>
+                                There are many Muslim scholars who participated
+                                and took part in advancing civilization.
+                                Whoever wants to know more, should review
+                                books that are written specifically on this topic.
+                                Numerous times, works of research written
+                                by Muslims were plagiarized and wrongfully
+                                attributed to others.
+                            </p>
+                        </li>
+                    </ul>
+                    <p class=" mt-4 p-3" style="background: #32a5aa; color: #fff" data-aos="faade-up">
+                        Major Arthur Glyn Leonard <em class="tooltip-top" data-html="true" data-toggle="tooltip" data-placement="top"
+                                                     title="" data-original-title="
+                                 <b class='bold'>  Leonard, Arthur Glyn. </b>
+                                 <br>
+                                 (1909). Islam, Her Moral and
+                                    Spiritual Value: A Rational
+                                    and Psychological Study.
+                                    London: Luzac
+                                 " style="color: #fff"> (6)</em> said:
                         <br>
-                        <span class="hadeth">
-                             “A woman entered Hell because of a cat which she tied up
-                        and did not feed, nor did she let it loose to feed upon the
-                        vermin of the earth.” <small> (Bukhari)</small>
-                        </span>
-                        <br><br>
-                        If this is the mercy Islam shows to animals, how much more
-                        mercy would it show to humans, whom Allah has preferred and
-                        honored over all other creatures?
+                        <i class="quote fas fa-quote-left"></i><em class="font-italic">
+                            Do not we, who now consider ourselves on the topmost pinnacle ever reached by
+                            culture and civilization, recognize that, had it not been for the high culture, the civilization
+                            and intellectual, as the social splendors of the Arabs and soundness of their
+                            system, Europe would to this day have remained sunk in the darkness of ignorance?
+                        </em><i class="quote fas fa-quote-right"></i>
                     </p>
                 </div>
             </div>

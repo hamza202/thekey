@@ -1194,6 +1194,7 @@ footer {
 .tooltip-top{
     cursor: pointer;
     color: #32a5aa;
+    font-size: 13px;
 }
 .second-title{
     color: #32a5aa;
@@ -1290,7 +1291,20 @@ footer {
     font-style: italic;
 }
 .list-style-2 li{
-    margin-top: 30px;
+    margin-top: 15px;
+}
+#what-islam-slider.Embryonic-slider .item{
+    padding: 0;
+}
+.list-number-2 li p span {
+    font-size: 23px;
+    color: #1a2f4e;
+    font-weight: bold;
+    padding-right: 2px;
+    display: inline-block;
+}
+.list-number-2 li:not(:first-child){
+    margin-top: 10px;
 }
 @media (max-width: 1200px) {
 

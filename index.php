@@ -55,7 +55,7 @@ include ('header.php');
                 <h1>THE KEY</h1>
                 <h3>TO UNDERSTANDING</h3>
                 <h2>ISLAM</h2>
-                <a href="#" class="btn btn-primary  skrollable skrollable-after">
+                <a href="intro.php" class="btn btn-primary  skrollable skrollable-after">
                     <span class="text"><span class="inner">READ MORE</span></span>
                     <span class="hover"><span class="inner">READ MORE</span></span>
                 </a>
@@ -117,7 +117,7 @@ include ('header.php');
                         one of the children of Ismaa’eel
                     </p>
                     <div>
-                        <a href="#" class="btn btn-primary   wow fadeInLeft" data-wow-duration="0.9s"
+                        <a href="What-is-Islam.php#What_do_they_say_about_Islam" class="btn btn-primary   wow fadeInLeft" data-wow-duration="0.9s"
                            data-wow-delay="0.8s" data-295=""
                            data-350="">
                             <span class="text"><span class="inner">READ MORE</span></span>
@@ -151,7 +151,7 @@ include ('header.php');
 
                     </p>
                     <div>
-                        <a href="#" class="btn btn-primary   wow fadeInRight" data-wow-duration="0.9s"
+                        <a href="the-pillars-of-islam.php" class="btn btn-primary   wow fadeInRight" data-wow-duration="0.9s"
                            data-wow-delay="0.8s" data-780=""
                            data-800="margin-left: 0px ; opacity: 1;">
                             <span class="text"><span class="inner">READ MORE</span></span>
@@ -190,7 +190,7 @@ include ('header.php');
 
                 </p>
                 <div>
-                    <a href="#" class="btn btn-primary   wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay="0.8s"
+                    <a href="What-is-the-Quran.php" class="btn btn-primary   wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay="0.8s"
                        data-850="" data-1000="margin-left: 0px ; opacity: 1;">
                         <span class="text"><span class="inner">READ MORE</span></span>
                         <span class="hover"><span class="inner">READ MORE</span></span>
@@ -207,7 +207,7 @@ include ('header.php');
             <div class="img-parlex-right" style="background-image: url('img/img1.jpg')">
                 <div class="row right-box-big-khzoog">
 
-                    <a href="#" class="col height-top back-1" data-1500=""
+                    <a href="the-pillars-of-islam.php" class="col height-top back-1" data-1500=""
                          data-1800="">
 
                         <h5>
@@ -215,21 +215,21 @@ include ('header.php');
                             <span class="hover text-uppercase">Prayer</span>
                         </h5>
                     </a>
-                    <a  href="#" class="col height-top back-2" data-1500=""
+                    <a  href="the-pillars-of-islam.php" class="col height-top back-2" data-1500=""
                          data-1800="">
                         <h5>
                             <span class="text text-uppercase">Pilgrimage </span>
                             <span class="hover text-uppercase">Pilgrimage</span>
                         </h5>
                     </a>
-                    <a href="#" class="col height-top back-3" data-1500=""
+                    <a href="the-pillars-of-islam.php" class="col height-top back-3" data-1500=""
                          data-1800="">
                         <h5>
                             <span class="text text-uppercase">Fasting of Ramadan</span>
                             <span class="hover text-uppercase">Fasting of Ramadan</span>
                         </h5>
                     </a>
-                    <a href="#" class="col height-top back-4" data-1500=""
+                    <a href="the-pillars-of-islam.php" class="col height-top back-4" data-1500=""
                          data-1800="">
                         <h5>
                             <span class="text text-uppercase">Charity</span>

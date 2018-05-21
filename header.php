@@ -9,6 +9,7 @@
                     <li><a href="javascript:void(0)">Learn About Islam</a>
                         <ul>
                             <li><a href="What-is-Islam.php">What is Islam?</a></li>
+                            <li><a href="What-is-the-Quran.php">What is the Quran?</a></li>
                             <li><a href="What-is-Islam.php#What_do_they_say_about_Islam">What do they say about Islam?</a></li>
                             <li><a href="the-pillars-of-islam.php">The Pillars of Islam</a></li>
                             <li><a href="messenger-of-islam.php">Messenger of Islam</a></li>
@@ -60,8 +61,20 @@
                             <li><a href="Begining-World.php">Begining of the World</a></li>
                             <li><a href="Expansion-of-Universe.php">Expansion of the Universe</a></li>
                             <li><a href="Celestial-Bodies.php">Celestial Bodies</a></li>
+                            <li><a href="Air-Pressure.php">Air Pressure</a></li>
+                            <li><a href="Darkness-Space.php">Darkness & Upper Space</a></li>
+                            <li><a href="Quran-Atom.php">Quran on Atom</a></li>
+                            <li><a href="Human-Embryonic-Phases.php">Human Embryonic Phases</a></li>
+                            <li><a href="Quran-Oceans.php">Quran on Oceans</a></li>
+                            <li><a href="Formation-Clouds-Rains.php">Formation of Clouds & Rains</a></li>
+                            <li><a href="Quran-on-Mountains.php">Quran on Mountains</a></li>
+                            <li><a href="Water-and-Life.php">Quran on Water & Life</a></li>
                         </ul>
                     </li>
+                    <li><a href="Enmity-Towards-Islam.php">Enmity Towards Islam</a></li>
+                    <li><a href="Privilege-of-Islam.php">Privileges of Islam</a></li>
+                    <li><a href="Conclusion.php">Conclusion</a></li>
+                    <li><a href="become-Muslim.php">How To become a Muslim?</a></li>
                 </ul>
             </div>
         </div>

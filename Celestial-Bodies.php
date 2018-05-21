@@ -69,11 +69,11 @@ include('header.php');
                         heavens and earth. These energies are:
                     </p>
                     <ul class="list-unstyled list-style-2">
-                        <li>
+                        <li class="bg-f0" data-aos="fade-up">
                             <p><i class="fas fa-hand-point-right"></i><b class="bold blue-color pl-1">Strong nuclear energy:</b> This energy holds subatomic particles together;
                                 which includes protons, electrons and neutrons.  </p>
                         </li>
-                        <li>
+                        <li class="bg-f0" data-aos="fade-up">
                             <p><i class="fas fa-hand-point-right"></i><b class="bold blue-color pl-1">Weak nuclear energy:</b>  This nuclear energy causes certain forms of radioactive
                                 decay. <em class="tooltip-top" data-html="true" data-toggle="tooltip" data-placement="top"
                                            title="" data-original-title="
@@ -88,12 +88,12 @@ include('header.php');
                                     the same quantum state.
                                  "> (1)</em> </p>
                         </li>
-                        <li>
+                        <li class="bg-f0" data-aos="fade-up">
                             <p><i class="fas fa-hand-point-right"></i><b class="bold blue-color pl-1">Electromagnetic energy:</b>  This is the energy which ties the
                                 atoms together within matter, and which also gives each its
                                 respective traits. </p>
                         </li>
-                        <li>
+                        <li class="bg-f0" data-aos="fade-up">
                             <p><i class="fas fa-hand-point-right"></i><b class="bold blue-color pl-1">Gravity:</b>
                                 It is the weakest form of energy known to us, but in
                                 the long run, is a focal form of energy, since it keeps all the
@@ -179,7 +179,7 @@ include('header.php');
                                 of their stars.
                             </p>
                         </li>
-                        <li>
+                        <li class="bg-f0" data-aos="fade-up">
                             <p>
                                 <i class="fas fa-hand-point-right"></i>
                                 It also refers to a thing which is perfectly combined and integrated. These
@@ -196,7 +196,7 @@ include('header.php');
                                 </em>
                             </p>
                         </li>
-                        <li>
+                        <li class="bg-f0" data-aos="fade-up">
                             <p>
                                 <i class="fas fa-hand-point-right"></i>
                                 It also refers to the orbits each celestial body floats within. Among the
@@ -205,7 +205,39 @@ include('header.php');
                                 in a perfect system.
                             </p>
                         </li>
+
                     </ul>
+                </div>
+            </div>
+
+            <div class="row text-justify mt-5" data-aos="fade-up">
+                <div class="col-lg-5 text-center">
+                    <img data-aos="flip-right" class="img-fluid" src="img/islam2.jpg" alt="">
+                </div>
+                <div class="col-lg-7  lg-mt-30 " data-aos="fade-up">
+                    <p class="bg-f0" data-aos="fade-up">
+                        <em class="blue-color">Allah says:</em>
+                        <br>
+                        <em class="quran">
+                            <img class="q1" src="img/q1.png">
+                            It is He who made the sun a [source] of radiant light and the moon a light [reflected],
+                            and has determined for it phases so that you may know the number of
+                            years and to measure time. Allah has not created this except in truth. He details
+                            the signs for a people who know<img class="q2" src="img/q2.png">
+                            <small>(10:5)</small>
+                        </em>
+                        <br><br>
+
+                    </p>
+                    <br>
+                    <p class="bg-f0" data-aos="fade-up">
+                        The perfect distinction made between light given off by a luminous, fiery body
+                        and light reflected from the sun by a dark, cold body (the moon), which is then
+                        reflected in a constant and steady manner (upon the earth) has been mentioned
+                        in the Qur’an over fourteen hundred years ago! This is among the many proofs
+                        that the Qur’an is Divine Revelation from Allah, Who is the Best Knower of that
+                        which He, Alone, has created.
+                    </p>
                 </div>
             </div>
         </div>

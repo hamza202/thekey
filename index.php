@@ -18,7 +18,7 @@
    ?>
 
 </head>
-<body>
+<body class="home">
 <div class="line-to-top right-line-to-top"></div>
 <div class="line-to-top center-line-to-top"></div>
 <div class="line-to-top left-line-to-top"></div>
@@ -55,10 +55,10 @@ include ('header.php');
                 <h1>THE KEY</h1>
                 <h3>TO UNDERSTANDING</h3>
                 <h2>ISLAM</h2>
-                <a href="intro.php" class="btn btn-primary  skrollable skrollable-after">
-                    <span class="text"><span class="inner">READ MORE</span></span>
-                    <span class="hover"><span class="inner">READ MORE</span></span>
-                </a>
+                    <a href="intro.php" class="btn btn-primary  skrollable skrollable-after">
+                        <span class="text"><span class="inner">READ MORE</span></span>
+                        <span class="hover"><span class="inner">READ MORE</span></span>
+                    </a>
             </div>
             <div class="col-md-6 padding-50px-x">
                 <div class="row">

@@ -79,7 +79,7 @@ html, body {
 }
 
 .line-one-top {
-    position: fixed;
+    position: absolute;
     width: 100%;
     background: rgba(50, 165, 170, 0.43);
     z-index: 99;
@@ -88,7 +88,7 @@ html, body {
 }
 
 .line-two-top {
-    position: fixed;
+    position: absolute;
     width: 100%;
     background: rgba(50, 165, 170, 0.43);
     z-index: 99;
@@ -100,7 +100,7 @@ html, body {
     width: 70px;
     height: 65px;
     background: #32a5aa;
-    position: fixed;
+    position: absolute;
     right: 90px;
     top: 81px;
     color: #fff;
@@ -161,15 +161,16 @@ li.haschaid::before {
     position: absolute;
     font-family: "Font Awesome 5 Free";
     font-weight: 600;
-    content: "\f107";
+    content: "\f067";
     right: 12px;
-    top: 14px;
-    transform: rotate(90deg);
+    color: #fff;
+    top: 18px;
     transition: all 0.5s;
+    font-size: 20px;
 }
 
 li.haschaid:hover::before {
-    transform: rotate(0deg);
+    content: "\f068";
 }
 
 .haschaid ul {
@@ -191,9 +192,11 @@ li.haschaid:hover::before {
     width: 100%;
 }
 
-.haschaid ul li a {
+.haschaid:not(.touch) ul li a {
     background: #1a2f4e;
-    transition: all 0.5s
+    transition: all 0.5s;
+    border-color: rgba(255,255,255,0.3) !important;
+    padding: 10px 20px;
 }
 
 li.haschaid:hover ul {
@@ -240,13 +243,11 @@ li.haschaid ul li a:hover {
 
 .dropdown-content a {
     color: #fff;
-    padding: 20px 10px;
+    padding: 20px;
     text-decoration: none;
     text-align: left;
     display: block;
-    font-family: 'tt0173m';
-    background: #32a5aa;
-    font-size: 19px;
+    font-size: 16px;
     transition: 0.3s all;
     border: 1px solid #28949a;
 }
@@ -254,14 +255,41 @@ li.haschaid ul li a:hover {
 .dropdown-content a:hover {
     background-color: #1a2d4e
 }
-
+.dropdown-content{
+    left: 5%;
+    right: 5%;
+    position: fixed;
+    width: 90%;
+    top: 5%;
+    height: 90%;
+    opacity: 0;
+    visibility: hidden;
+}
+.dropdown-content{
+    left: 5%;
+    right: 5%;
+    position: fixed;
+    width: 90%;
+    top: 5%;
+    height: 90%;
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(10px);
+}
 .right-menu .Hoverd .dropdown-content {
-    display: block;
-    margin-top: 15px;
-    width: calc(77vw - 6px);
+    display: flex;
+    left: 5%;
+    right: 5%;
+    margin-top: 0;
+    position: fixed;
+    border-radius: 5px;
+    width: 90%;
+    top: 5%;
     transition: 0.5s all ease;
-    opacity: 0.9;
-    height: 60vh;
+    opacity: 1;
+    height: 90%;
+    visibility: visible;
+    transform: translateY(0px);
 }
 
 /*menu*/
@@ -345,6 +373,10 @@ header span{
     backface-visibility: hidden;
 
 }
+footer img{
+    width: 100px;
+    height: auto;
+}
 .header-key .layout2{
     background-image: url('../img/01.png');
     background-size: cover;
@@ -394,7 +426,7 @@ header span{
     display: none !important;
 }
 .topheader {
-    position: fixed;
+    position: absolute;
     top: 0;
     right: 0;
     text-align: right;
@@ -407,7 +439,7 @@ header span{
 }
 
 .two-top {
-    position: fixed;
+    position: absolute;
     top: 80px;
     z-index: 999;
 
@@ -601,7 +633,22 @@ header {
 /*span {*/
     /*font-family: tt0173m;*/
 /*}*/
-
+.container.contetn-center {
+    position: relative;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+    height:100%;
+}
 .btn {
     font-family: tt0173m;
     color: #fff;
@@ -1256,6 +1303,13 @@ footer {
     content: counter(my-badass-counter)'.';
     counter-increment: my-badass-counter;
 }
+.two-top{
+    display: none;
+}
+footer img{
+    max-width: 140px;
+    height: auto;
+}
 /*.main-page::after {*/
     /*content: '';*/
     /*background-image: url(../img/right-img-blue.jpg);*/
@@ -1270,12 +1324,16 @@ footer {
 /*pages-header end*/
 .dropdown-content .close{
     position: fixed;
-    top: 3px;
+    top: 0;
     color: #fff;
     opacity: 1;
-    right: 12px;
+    right: 0;
     z-index: 999;
-    font-size: 40px;
+    background: #1a2f4e;
+    width: 45px;
+    height: 45px;
+    line-height: 45px;
+    font-size: 21px;
 }
 .dropdown .close{
     display: none;
@@ -1306,6 +1364,14 @@ footer {
 .list-number-2 li:not(:first-child){
     margin-top: 10px;
 }
+.center-line-to-top{
+    height: 300px;
+    position: absolute;
+}
+.home .center-line-to-top{
+    height: 100vh;
+}
+
 @media (max-width: 1200px) {
 
 }
@@ -1433,14 +1499,14 @@ footer {
     .img-two-header{
         display: none;
     }
-    .right-menu .Hoverd .dropdown-content{
-        width: 100vw;
-        position: fixed;
-        top: 0;
-        right: 0;
-        margin-top: 24px;
-        height: calc(100vh - 24px);
-    }
+    /*.right-menu .Hoverd .dropdown-content{*/
+        /*width: 100vw;*/
+        /*position: fixed;*/
+        /*top: 0;*/
+        /*right: 0;*/
+        /*margin-top: 24px;*/
+        /*height: calc(100vh - 24px);*/
+    /*}*/
 
     .content-header-top-z .padding-50px-x{
         padding: 0 50px !important;
@@ -1521,4 +1587,33 @@ footer {
         width: 90%;
         margin: 0 auto;
     }
+}
+
+@media (max-width:992px){
+    .touch .dropdown-content .haschaid ul {
+        position: absolute;
+        top:100%;
+        display: none;
+        opacity: 0;
+    }
+    .touch .dropdown-content .openChild.haschaid ul {
+        display: block;
+        opacity: 1;
+    }
+    .touch .dropdown-content .haschaid::before{
+        content: "\f067";
+    }
+    .touch .dropdown-content .openChild.haschaid::before{
+        content: "\f068";
+    }
+}
+@media (max-width:480px){
+    .touch .dropdown-content .haschaid ul {
+        position: absolute;
+    }
+}
+.touch .dropdown-content .openChild.haschaid ul {
+    display: block;
+    opacity: 1;
+    top:100%;
 }

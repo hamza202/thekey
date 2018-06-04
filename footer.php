@@ -4,9 +4,9 @@
         <h3 class="h3-footer">
             Published by
         </h3>
-        <p class="footer-det">Osoul Global Center in cooperation with the Australian Science and Research Academy.
+        <p class="footer-det">Osoul Center in cooperation with the Australian Science and Research Academy.
             <br>
-            Copyright © Osoul Global Center, All rights reserved.
+            Osoul Center,  2018  All rights reserved.
         </p>
     </div>
 </footer>
@@ -36,13 +36,15 @@
 
         $(window).scroll(function () {
             if ($(this).scrollTop() >= 200) {
-                // $('.line-to-top').fadeOut();
+                 $('.center-line-to-top').fadeOut();
+                $('#scroll-fix').addClass('nav-fix-top');
                 $('.two-top').addClass('right-lang');
                 // $('.line-to-right').fadeOut();
                 $('.right-menu').addClass('fix-menu');
             } else {
-                // $('.line-to-top').fadeIn();
+                $('.center-line-to-top').fadeIn();
                 $('.two-top').removeClass('right-lang');
+                $('#scroll-fix').removeClass('nav-fix-top');
                 // $('.line-to-right').fadeIn();
                 $('.right-menu').removeClass('fix-menu');
             }
@@ -99,4 +101,22 @@
         $('em').tooltip('enable')
     })
 </script>
+<script>
+    function is_touch_device() {
+        return 'ontouchstart' in window
+            || navigator.maxTouchPoints;
+    };
+    $(window).on('load', function(){
+        if (is_touch_device()) {
+            $('html').addClass('touch')
+        }
+        else {
+            $('html').removeClass('touch')
+        }
+        $('.touch li.haschaid').on('touchstart', function(){
+            $(this).toggleClass('openChild');
+        });
+    });</script>
+
 <script src="js/wow.min.js"></script>
+<!-- Go to <a href="http://www.addthis.com/dashboard">www.addthis.com/dashboard</a> to customize your tools --><script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5aff599bef2f8122"></script>

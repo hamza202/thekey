@@ -116,7 +116,33 @@
         $('.touch li.haschaid').on('touchstart', function(){
             $(this).toggleClass('openChild');
         });
-    });</script>
+    });
+
+    //========  open language ========//
+    $(document).on('click', function (event) {
+        $('body').removeClass('open-langs');
+    });
+    $('#btn-langs').on('click', function (event) {
+        event.stopPropagation();
+        $('body').toggleClass('open-langs');
+    });
+    $('.lang-content').on('click', function (e) {
+        e.stopPropagation();
+    });
+
+    $('.lang-content li').each(function(){
+        var l = $(this).find('b').text().toLowerCase();
+        //var url = document.location.href;
+
+        var url = window.location.href.split('/');
+        if(url.indexOf(l) > -1){
+            $(this).addClass('selected');
+        }
+    });
+</script>
 
 <script src="js/wow.min.js"></script>
-<!-- Go to <a href="http://www.addthis.com/dashboard">www.addthis.com/dashboard</a> to customize your tools --><script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5aff599bef2f8122"></script>
+
+<!-- Go to <a href="http://www.addthis.com/dashboard">www.addthis.com/dashboard</a> to customize your tools -->
+
+<!--<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5aff599bef2f8122"></script>-->
